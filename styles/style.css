@@ -253,6 +253,7 @@
   display: grid;
   grid-template-columns: auto 1fr auto;
   margin-top: 156px;
+  margin-bottom: 81px;
 }
 .footer__address {
   justify-content: center;
