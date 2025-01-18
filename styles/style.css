@@ -29,7 +29,7 @@
 .header__logo {
   width: 139px;
 }
-.adress{
+.address {
   justify-self: end;
   font-size: 18px;
   font-style: normal;
@@ -101,7 +101,6 @@
   margin-right: 51px;
   font-size: 22px;
   text-transform: uppercase;
-  
 }
 .cover__description-text {
   position: relative;
@@ -228,7 +227,6 @@
 .about__logo-image {
   width: 141.54px;
   height: 112.55px;
-
 }
 .content {
   display: flex;
@@ -256,7 +254,7 @@
   grid-template-columns: auto 1fr auto;
   margin-top: 156px;
 }
-.footer__adress {
+.footer__address {
   justify-content: center;
   min-width: 264.57px;
   margin-left: 51px;
