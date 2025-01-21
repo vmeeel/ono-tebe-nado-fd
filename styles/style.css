@@ -232,13 +232,15 @@
 .about__title {
   display: flex;
   padding-top: 100px;
-  padding-left: 3px;
+  padding-left: 2px;
+  font-weight: 700;
   font-size: 40px;
   line-height: 46.96px;
   text-transform: uppercase;
 }
 .about__text {
   margin: 99px 27px 0px 0px;
+  font-weight: 400;
   font-size: 20px;
   line-height: 24px;
 }
