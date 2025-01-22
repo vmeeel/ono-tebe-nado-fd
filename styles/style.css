@@ -117,7 +117,7 @@
 }
 
 .lots {
-  padding: 179px 24px 23px 24px;
+  padding: 182px 24px 23px 24px;
 }
 .lots__heading {
   margin-left: 42px;
@@ -208,7 +208,7 @@
   display: grid;
   grid-template-columns: 334px repeat(1, auto);
   gap: 49px;
-  padding-top: 12px;
+  padding-top: 9px;
 }
 .about__logo {
   display: flex;
@@ -232,20 +232,20 @@
 .about__title {
   display: flex;
   padding-top: 100px;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 40px;
   line-height: 46.96px;
   text-transform: uppercase;
 }
 .about__text {
-  margin: 99px 27px 0px 0px;
+  margin: 101px 27px 0px 0px;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
 }
 .text {
   display: flex;
-  padding-bottom: 25px;
+  padding-bottom: 24px;
 }
 .footer {
   display: grid;
